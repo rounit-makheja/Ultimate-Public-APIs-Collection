@@ -1,6 +1,6 @@
 # Rounit Makheja's Public APIs Reference
 
-> Curated and maintained by **Rounit Makheja** as a personal reference for API discovery and project development. 
+> Curated and maintained by **Rounit Makheja** as a personal reference for API discovery and project development.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rounit--makheja-181717?style=flat&logo=github)](https://github.com/rounit-makheja)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rounit%20Makheja-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/rounit-makheja-1a9422323/)
